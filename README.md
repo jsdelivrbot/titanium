@@ -4,10 +4,11 @@
   </a>
 
   <h3 align="center">TitaniumCSS</h3>
-  <br>
   <p align="center">
     A CSS framework designed to give users the highest possible degree of control.<br>TitaniumCSS is fast and responsive, and quick and simple to use.
     <br>
+  <br>
+  <br>
     <a href="#"><strong>Check out the documentation</strong></a>
     <br>
     <br>
