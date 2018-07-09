@@ -11,6 +11,5 @@
   <br>
     <a href="#"><strong>Check out the documentation</strong></a>
     <br>
-    <br>
   </p>
 </p>
