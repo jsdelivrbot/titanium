@@ -23,7 +23,7 @@ And that's all before you're up and running! To learn how to use TitaniumCSS, ch
 
 ## Creators
 
-TitaniumCSS created by <a href="https://rappatic.com" target="_blank">rappatic</a>.
+TitaniumCSS created by <a href="https://rappatic.com" target="_blank">rappatic</a> in 2018.
 
 ## Licensing
 
