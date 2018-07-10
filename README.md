@@ -8,11 +8,15 @@
     A CSS framework designed to give users the highest possible degree of control.<br>TitaniumCSS is fast and responsive, and quick and simple to use.
   <br>
     <a href="https://github.com/rappatic/titaniumcss/wiki"><strong>Check out the documentation</strong></a><br>
-    <a href="https://github.com/rappatic/titaniumcss/issues"><strong>Report a bug or issue</strong></a>
     <br>
   <br>
-  </p>
 </p>
+</p>
+
+### Reporting Bugs
+When you report a bug, make sure that it hasn't already been reported.
+
+[Report a bug or issue](https://github.com/rappatic/titaniumcss/issues)
 
 ## Installing
 
