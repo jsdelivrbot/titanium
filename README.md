@@ -14,7 +14,8 @@
 </p>
 
 ## Reporting Bugs
-When you report a bug, make sure that it hasn't already been reported.
+
+When you report a bug, make sure that the issue doesn't already exist. Once you've done that, include as much as you can about the bug, how to recreate it, and the device(s) and browser(s) it occurs on. If possible, include where you think the problem is.
 
 [Report a bug or issue](https://github.com/rappatic/titaniumcss/issues)
 
