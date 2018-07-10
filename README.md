@@ -25,7 +25,7 @@ And that's all before you're up and running! To learn how to use TitaniumCSS, ch
 
 If you prefer to use an older version of TitaniumCSS, add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" type="text/css" href="github.com/rappatic/titaniumcss/old/titanium-x.x.x.css">`
+`<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/rappatic/titaniumcss/master/old/titanium-x.x.x.css">`
 
 Replace x.x.x with the version of TitaniumCSS found in the *old* folder.
 
