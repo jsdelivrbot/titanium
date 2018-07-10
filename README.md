@@ -13,7 +13,7 @@
 </p>
 </p>
 
-### Reporting Bugs
+## Reporting Bugs
 When you report a bug, make sure that it hasn't already been reported.
 
 [Report a bug or issue](https://github.com/rappatic/titaniumcss/issues)
