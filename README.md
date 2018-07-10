@@ -35,4 +35,4 @@ TitaniumCSS created by <a href="https://rappatic.com" target="_blank">rappatic</
 
 ## Licensing
 
-TitaniumCSS is licensed under the MIT License. See <a href="https://github.com/rappatic/titaniumcss/blob/master/LICENSE">License</a> for more information.
+TitaniumCSS is licensed under the MIT License. See <a href="https://github.com/rappatic/titaniumcss/blob/master/LICENSE">LICENSE</a> for more information.
