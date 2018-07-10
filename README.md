@@ -17,7 +17,7 @@
 
 To install TitaniumCSS, add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" type="text/css" href="github.com/rappatic/titaniumcss/titanium-1.0.1.css">`
+`<link rel="stylesheet" type="text/css" href="raw.githubusercontent.com/rappatic/titaniumcss/master/titanium-1.0.1.css">`
 
 And that's all before you're up and running! To learn how to use TitaniumCSS, check out the documentation.
 
