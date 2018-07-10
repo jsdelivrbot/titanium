@@ -7,8 +7,7 @@
   <p align="center">
     A CSS framework designed to give users the highest possible degree of control.<br>TitaniumCSS is fast and responsive, and quick and simple to use.
   <br>
-    <a href="https://github.com/rappatic/titaniumcss/wiki"><strong>Check out the documentation</strong></a>
-  
+    <a href="https://github.com/rappatic/titaniumcss/wiki"><strong>Check out the documentation</strong></a><br>
     <a href="https://github.com/rappatic/titaniumcss/issues"><strong>Report a bug or issue</strong></a>
     <br>
   <br>
