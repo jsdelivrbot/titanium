@@ -7,7 +7,7 @@
   <p align="center">
     A CSS framework designed to give users the highest possible degree of control.<br>TitaniumCSS is fast and responsive, and quick and simple to use.
   <br>
-    <a href="#"><strong>Check out the documentation</strong></a>
+    <a href="https://github.com/rappatic/titaniumcss/wiki"><strong>Check out the documentation</strong></a>
     <br>
   <br>
   </p>
@@ -17,7 +17,7 @@
 
 To install TitaniumCSS, add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" type="text/css" href="raw.githubusercontent.com/rappatic/titaniumcss/master/titanium-1.0.1.css">`
+`<link rel="stylesheet" type="text/css" href="raw.githubusercontent.com/rappatic/titaniumcss/master/titanium-1.0.2.css">`
 
 And that's all before you're up and running! To learn how to use TitaniumCSS, check out the documentation.
 
