@@ -1,4 +1,5 @@
 *{box-sizing:border-box}
+body{margin:0;padding:0}
 .jumbo{width:100%}
 .xl{width:80%}
 .large{width:60%}
