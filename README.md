@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://image.ibb.co/dafe6o/Picture2.png" alt="Logo" width=100 height=100>
+    <img src="https://preview.ibb.co/kapqz8/Picture4.png" alt="Logo" width=100 height=100>
   </a>
 
   <h3 align="center">TitaniumCSS</h3>
