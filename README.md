@@ -23,7 +23,7 @@ When you report a bug, make sure that the issue doesn't already exist. Once you'
 
 To install TitaniumCSS, add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" type="text/css" href="raw.githubusercontent.com/rappatic/titaniumcss/master/titanium.css">`
+`<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/rappatic/titaniumcss/master/titanium.css">`
 
 And that's all before you're up and running! To learn how to use TitaniumCSS, check out the documentation.
 
