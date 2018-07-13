@@ -1,0 +1,579 @@
+/* Border settings */
+
+.border-white {
+  border: 2px solid white;
+}
+
+.border-grey {
+  border: 2px solid lightgrey;
+}
+
+.border-red {
+  border: 2px solid #a6001a;
+}
+
+.border-orange {
+  border: 2px solid #e06000;
+}
+
+.border-yellow {
+  border: 2px solid #ffab00;
+}
+
+.border-green {
+  border: 2px solid #004d33;
+}
+
+.border-blue {
+  border: 2px solid dodgerblue;
+}
+
+.border-royalblue {
+  border: 2px solid #00477e;
+}
+
+.border-darkblue {
+  border: 2px solid #03002E;
+}
+
+.border-purple {
+  border: 2px solid slateblue;
+}
+
+/* Border settings - Children */
+
+.children-border-white * {
+  border: 2px solid white;
+}
+
+.children-border-grey * {
+  border: 2px solid lightgrey;
+}
+
+.children-border-red * {
+  border: 2px solid #a6001a;
+}
+
+.children-border-orange * {
+  border: 2px solid #e06000;
+}
+
+.children-border-yellow * {
+  border: 2px solid #ffab00;
+}
+
+.children-border-green * {
+  border: 2px solid #004d33;
+}
+
+.children-border-blue * {
+  border: 2px solid dodgerblue;
+}
+
+.children-border-royalblue * {
+  border: 2px solid #00477e;
+}
+
+.children-border-darkblue * {
+  border: 2px solid #03002E;
+}
+
+.children-border-purple * {
+  border: 2px solid slateblue;
+}
+
+.children-border-royalpurple {
+  border: 2px solid indigo;
+}
+
+.children-border-brown {
+  border: 2px solid #633517;
+}
+
+.children-border-black {
+  border: 2px solid black;
+}
+
+.children-border-white * {
+  border: 2px solid white;
+}
+
+.children-border-grey * {
+  border: 2px solid lightgrey;
+}
+
+.children-border-red * {
+  border: 2px solid #a6001a;
+}
+
+.children-border-orange * {
+  border: 2px solid #e06000;
+}
+
+.children-border-yellow * {
+  border: 2px solid #ffab00;
+}
+
+.children-border-green * {
+  border: 2px solid #004d33;
+}
+
+.children-border-blue * {
+  border: 2px solid dodgerblue;
+}
+
+.children-border-royalblue * {
+  border: 2px solid #00477e;
+}
+
+.children-border-darkblue * {
+  border: 2px solid #03002E;
+}
+
+.children-border-purple * {
+  border: 2px solid slateblue;
+}
+
+.children-border-royalpurple * {
+  border: 2px solid indigo;
+}
+
+.children-border-brown * {
+  border: 2px solid #633517;
+}
+
+.children-border-black * {
+  border: 2px solid black;
+}
+
+/* Bottombar settings */
+
+.bottombar-white {
+  border-bottom: 6px solid white;
+}
+
+.bottombar-grey {
+  border-bottom: 6px solid lightgrey;
+}
+
+.bottombar-red {
+  border-bottom: 6px solid #a6001a;
+}
+
+.bottombar-orange {
+  border-bottom: 6px solid #e06000;
+}
+
+.bottombar-yellow {
+  border-bottom: 6px solid #ffab00;
+}
+
+.bottombar-green {
+  border-bottom: 6px solid #004d33;
+}
+
+.bottombar-blue {
+  border-bottom: 6px solid dodgerblue;
+}
+
+.bottombar-royalblue {
+  border-bottom: 6px solid #00477e;
+}
+
+.bottombar-darkblue {
+  border-bottom: 6px solid #03002E;
+}
+
+.bottombar-purple {
+  border-bottom: 6px solid slateblue;
+}
+
+.bottombar-royalpurple {
+  border-bottom: 6px solid indigo;
+}
+
+.bottombar-brown {
+  border-bottom: 6px solid #633517;
+}
+
+.bottombar-black {
+  border-bottom: 6px solid black;
+}
+
+/* Bottombar settings - Children */
+
+.children-bottombar-white * {
+  border-bottom: 6px solid white;
+}
+
+.children-bottombar-grey * {
+  border-bottom: 6px solid lightgrey;
+}
+
+.children-bottombar-red * {
+  border-bottom: 6px solid #a6001a;
+}
+
+.children-bottombar-orange * {
+  border-bottom: 6px solid #e06000;
+}
+
+.children-bottombar-yellow * {
+  border-bottom: 6px solid #ffab00;
+}
+
+.children-bottombar-green * {
+  border-bottom: 6px solid #004d33;
+}
+
+.children-bottombar-blue * {
+  border-bottom: 6px solid dodgerblue;
+}
+
+.children-bottombar-royalblue * {
+  border-bottom: 6px solid #00477e;
+}
+
+.children-bottombar-darkblue * {
+  border-bottom: 6px solid #03002E;
+}
+
+.children-bottombar-purple * {
+  border-bottom: 6px solid slateblue;
+}
+
+.children-bottombar-royalpurple * {
+  border-bottom: 6px solid indigo;
+}
+
+.children-bottombar-brown * {
+  border-bottom: 6px solid #633517;
+}
+
+.children-bottombar-black * {
+  border-bottom: 6px solid black;
+}
+
+/* Leftbar settings */
+
+.leftbar-white {
+  border-left: 6px solid white;
+}
+
+.leftbar-grey {
+  border-left: 6px solid lightgrey;
+}
+
+.leftbar-red {
+  border-left: 6px solid #a6001a;
+}
+
+.leftbar-orange {
+  border-left: 6px solid #e06000;
+}
+
+.leftbar-yellow {
+  border-left: 6px solid #ffab00;
+}
+
+.leftbar-green {
+  border-left: 6px solid #004d33;
+}
+
+.leftbar-blue {
+  border-left: 6px solid dodgerblue;
+}
+
+.leftbar-royalblue {
+  border-left: 6px solid #00477e;
+}
+
+.leftbar-darkblue {
+  border-left: 6px solid #03002E;
+}
+
+.leftbar-purple {
+  border-left: 6px solid slateblue;
+}
+
+.leftbar-royalpurple {
+  border-left: 6px solid indigo;
+}
+
+.leftbar-brown {
+  border-left: 6px solid #633517;
+}
+
+.leftbar-black {
+  border-left: 6px solid black;
+}
+
+/* Leftbar settings - Children */
+
+.children-leftbar-white * {
+  border-left: 6px solid white;
+}
+
+.children-leftbar-grey * {
+  border-left: 6px solid lightgrey;
+}
+
+.children-leftbar-red * {
+  border-left: 6px solid #a6001a;
+}
+
+.children-leftbar-orange * {
+  border-left: 6px solid #e06000;
+}
+
+.children-leftbar-yellow * {
+  border-left: 6px solid #ffab00;
+}
+
+.children-leftbar-green * {
+  border-left: 6px solid #004d33;
+}
+
+.children-leftbar-blue * {
+  border-left: 6px solid dodgerblue;
+}
+
+.children-leftbar-royalblue * {
+  border-left: 6px solid #00477e;
+}
+
+.children-leftbar-darkblue * {
+  border-left: 6px solid #03002E;
+}
+
+.children-leftbar-purple * {
+  border-left: 6px solid slateblue;
+}
+
+.children-leftbar-royalpurple * {
+  border-left: 6px solid indigo;
+}
+
+.children-leftbar-brown * {
+  border-left: 6px solid #633517;
+}
+
+.children-leftbar-black * {
+  border-left: 6px solid black;
+}
+
+/* Rightbar settings */
+
+.rightbar-white {
+  border-right: 6px solid white;
+}
+
+.rightbar-grey {
+  border-right: 6px solid lightgrey;
+}
+
+.rightbar-red {
+  border-right: 6px solid #a6001a;
+}
+
+.rightbar-orange {
+  border-right: 6px solid #e06000;
+}
+
+.rightbar-yellow {
+  border-right: 6px solid #ffab00;
+}
+
+.rightbar-green {
+  border-right: 6px solid #004d33;
+}
+
+.rightbar-blue {
+  border-right: 6px solid dodgerblue;
+}
+
+.rightbar-royalblue {
+  border-right: 6px solid #00477e;
+}
+
+.rightbar-darkblue {
+  border-right: 6px solid #03002E;
+}
+
+.rightbar-purple {
+  border-right: 6px solid slateblue;
+}
+
+.rightbar-royalpurple {
+  border-right: 6px solid indigo;
+}
+
+.rightbar-brown {
+  border-right: 6px solid #633517;
+}
+
+.rightbar-black {
+  border-right: 6px solid black;
+}
+
+/* Rightbar settings - Children */
+
+.children-rightbar-white * {
+  border-right: 6px solid white;
+}
+
+.children-rightbar-grey * {
+  border-right: 6px solid lightgrey;
+}
+
+.children-rightbar-red * {
+  border-right: 6px solid #a6001a;
+}
+
+.children-rightbar-orange * {
+  border-right: 6px solid #e06000;
+}
+
+.children-rightbar-yellow * {
+  border-right: 6px solid #ffab00;
+}
+
+.children-rightbar-green * {
+  border-right: 6px solid #004d33;
+}
+
+.children-rightbar-blue * {
+  border-right: 6px solid dodgerblue;
+}
+
+.children-rightbar-royalblue * {
+  border-right: 6px solid #00477e;
+}
+
+.children-rightbar-darkblue * {
+  border-right: 6px solid #03002E;
+}
+
+.children-rightbar-purple * {
+  border-right: 6px solid slateblue;
+}
+
+.children-rightbar-royalpurple * {
+  border-right: 6px solid indigo;
+}
+
+.children-rightbar-brown * {
+  border-right: 6px solid #633517;
+}
+
+.children-rightbar-black * {
+  border-right: 6px solid black;
+}
+
+/* Topbar settings */
+
+.topbar-white {
+  border-top: 6px solid white;
+}
+
+.topbar-grey {
+  border-top: 6px solid lightgrey;
+}
+
+.topbar-red {
+  border-top: 6px solid #a6001a;
+}
+
+.topbar-orange {
+  border-top: 6px solid #e06000;
+}
+
+.topbar-yellow {
+  border-top: 6px solid #ffab00;
+}
+
+.topbar-green {
+  border-top: 6px solid #004d33;
+}
+
+.topbar-blue {
+  border-top: 6px solid dodgerblue;
+}
+
+.topbar-royalblue {
+  border-top: 6px solid #00477e;
+}
+
+.topbar-darkblue {
+  border-top: 6px solid #03002E;
+}
+
+.topbar-purple {
+  border-top: 6px solid slateblue;
+}
+
+.topbar-royalpurple {
+  border-top: 6px solid indigo;
+}
+
+.topbar-brown {
+  border-top: 6px solid #633517;
+}
+
+.topbar-black {
+  border-top: 6px solid black;
+}
+
+/* Topbar settings - Children */
+
+.children-topbar-white * {
+  border-top: 6px solid white;
+}
+
+.children-topbar-grey * {
+  border-top: 6px solid lightgrey;
+}
+
+.children-topbar-red * {
+  border-top: 6px solid #a6001a;
+}
+
+.children-topbar-orange * {
+  border-top: 6px solid #e06000;
+}
+
+.children-topbar-yellow * {
+  border-top: 6px solid #ffab00;
+}
+
+.children-topbar-green * {
+  border-top: 6px solid #004d33;
+}
+
+.children-topbar-blue * {
+  border-top: 6px solid dodgerblue;
+}
+
+.children-topbar-royalblue * {
+  border-top: 6px solid #00477e;
+}
+
+.children-topbar-darkblue * {
+  border-top: 6px solid #03002E;
+}
+
+.children-topbar-purple * {
+  border-top: 6px solid slateblue;
+}
+
+.children-topbar-royalpurple * {
+  border-top: 6px solid indigo;
+}
+
+.children-topbar-brown * {
+  border-top: 6px solid #633517;
+}
+
+.children-topbar-black * {
+  border-top: 6px solid black;
+}

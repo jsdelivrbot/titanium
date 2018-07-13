@@ -1,0 +1,101 @@
+/* Sizes */
+
+.jumbo {
+  width: 100%;
+}
+
+.xl {
+  width: 80%;
+}
+
+.large {
+  width: 60%;
+}
+
+.medium {
+  width: 50%;
+}
+
+.small {
+  width: 40%;
+}
+
+.xs {
+  width: 20%;
+}
+
+.tiny {
+  width: 10%;
+}
+
+/* Sizes - Children */
+
+.children-jumbo * {
+  width: 100%;
+}
+
+.children-xl * {
+  width: 80%;
+}
+
+.children-large * {
+  width: 60%;
+}
+
+.children-medium * {
+  width: 50%;
+}
+
+.children-small * {
+  width: 40%;
+}
+
+.children-xs * {
+  width: 20%;
+}
+
+.children-tiny * {
+  width: 10%;
+}
+
+/* Container settings */
+
+.center-inside {
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+}
+
+.stack-left {
+  float: left;
+}
+
+.stack-right {
+  float: right;
+}
+
+.container-center {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Container settings - Children */
+
+.children-center-inside * {
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+}
+
+.children-stack-left * {
+  float: left !important;
+}
+
+.children-stack-right * {
+  float: right !important;
+}
+
+.children-container-center * {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

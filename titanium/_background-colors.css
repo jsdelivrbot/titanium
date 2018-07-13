@@ -1,0 +1,107 @@
+/* Background colors */
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-grey {
+  background-color: lightgrey;
+}
+
+.bg-red {
+  background-color: #a6001a;
+}
+
+.bg-orange {
+  background-color: #e06000;
+}
+
+.bg-yellow {
+  background-color: #ffab00;
+}
+
+.bg-green {
+  background-color: #004d33;
+}
+
+.bg-blue {
+  background-color: dodgerblue;
+}
+
+.bg-royalblue {
+  background-color: #00477e;
+}
+
+.bg-darkblue {
+  background-color: #03002E;
+}
+
+.bg-purple {
+  background-color: slateblue;
+}
+
+.bg-royalpurple {
+  background-color: indigo;
+}
+
+.bg-brown {
+  background-color: #633517;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+/* Background colors - Children */
+
+.children-bg-white * {
+  background-color: white !important;
+}
+
+.children-bg-grey * {
+  background-color: lightgrey !important;
+}
+
+.children-bg-red * {
+  background-color: #a6001a !important;
+}
+
+.children-bg-orange * {
+  background-color: #e06000 !important;
+}
+
+.children-bg-yellow * {
+  background-color: #ffab00 !important;
+}
+
+.children-bg-green * {
+  background-color: #004d33 !important;
+}
+
+.children-bg-blue * {
+  background-color: dodgerblue !important;
+}
+
+.children-bg-royalblue * {
+  background-color: #00477e !important;
+}
+
+.children-bg-darkblue * {
+  background-color: #03002E !important;
+}
+
+.children-bg-purple * {
+  background-color: slateblue !important;
+}
+
+.children-bg-royalpurple * {
+  background-color: indigo !important;
+}
+
+.children-bg-brown * {
+  background-color: #633517 !important;
+}
+
+.children-bg-black * {
+  background-color: black !important;
+}

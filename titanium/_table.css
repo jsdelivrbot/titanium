@@ -1,0 +1,52 @@
+/* Table settings */
+
+.table-container {
+  overflow-x: auto;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 95%;
+  margin: auto;
+  overflow-x: auto;
+}
+
+.table th, td {
+  padding: 15px;
+}
+
+
+.striped tr:nth-child(even) {
+  background-color: lightgrey;
+}
+
+
+.outer-border {
+  border: 1px solid black;
+}
+
+
+.inner-border td {
+  border: 1px solid black;
+}
+
+.inner-border th {
+  border: 1px solid black;
+}
+
+
+.full-border {
+  border: 1px solid black;
+}
+
+.full-border td {
+  border: 1px solid black;
+}
+
+.full-border th {
+  border: 1px solid black;
+}
+
+.all-center * {
+  text-align: center;
+}

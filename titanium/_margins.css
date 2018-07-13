@@ -1,0 +1,119 @@
+/* Margin sizes */
+
+.margin-jumbo {
+  margin: 5%;
+}
+
+.margin-xl {
+  margin: 4%;
+}
+
+.margin-large {
+  margin: 3%;
+}
+
+.margin-medium {
+  margin: 2%;
+}
+
+.margin-small {
+  margin: 1%;
+}
+
+.margin-xs {
+  margin: 0.5%;
+}
+
+.margin-tiny {
+  margin: 0.25%;
+}
+
+/* Margin sizes - Children */
+
+.children-margin-jumbo * {
+  margin: 5%;
+}
+
+.children-margin-xl * {
+  margin: 4%;
+}
+
+.children-margin-large * {
+  margin: 3%;
+}
+
+.children-margin-medium * {
+  margin: 2%;
+}
+
+.children-margin-small * {
+  margin: 1%;
+}
+
+.children-margin-xs * {
+  margin: 0.5%;
+}
+
+.children-margin-tiny * {
+  margin: 0.25%;
+}
+
+/* Margin sizes */
+
+.top-margin-jumbo {
+  margin: 5%;
+}
+
+.top-margin-xl {
+  margin: 4%;
+}
+
+.top-margin-large {
+  margin: 3%;
+}
+
+.top-margin-medium {
+  margin: 2%;
+}
+
+.top-margin-small {
+  margin: 1%;
+}
+
+.top-margin-xs {
+  margin: 0.5%;
+}
+
+.top-margin-tiny {
+  margin: 0.25%;
+}
+
+/* Margin sizes - Children */
+
+.children-margin-jumbo * {
+  margin: 5%;
+}
+
+.children-margin-xl * {
+  margin: 4%;
+}
+
+.children-margin-large * {
+  margin: 3%;
+}
+
+.children-margin-medium * {
+  margin: 2%;
+}
+
+.children-margin-small * {
+  margin: 1%;
+}
+
+.children-margin-xs * {
+  margin: 0.5%;
+}
+
+.children-margin-tiny * {
+  margin: 0.25%;
+}

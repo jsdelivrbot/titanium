@@ -1,0 +1,107 @@
+/* Hover settings */
+
+.hover-white:hover {
+  background-color: white;
+}
+
+.hover-grey:hover {
+  background-color: lightgrey;
+}
+
+.hover-red:hover {
+  background-color: #a6001a;
+}
+
+.hover-orange:hover {
+  background-color: #e06000;
+}
+
+.hover-yellow:hover {
+  background-color: #ffab00;
+}
+
+.hover-green:hover {
+  background-color: #004d33;
+}
+
+.hover-blue:hover {
+  background-color: dodgerblue;
+}
+
+.hover-royalblue:hover {
+  background-color: #00477e;
+}
+
+.hover-darkblue:hover {
+  background-color: #03002E;
+}
+
+.hover-purple:hover {
+  background-color: slateblue;
+}
+
+.hover-royalpurple:hover {
+  background-color: indigo;
+}
+
+.hover-brown:hover {
+  background-color: #633517;
+}
+
+.hover-black:hover {
+  background-color: black;
+}
+
+/* Hover settings - Children */
+
+.children-hover-white:hover * * {
+  background-color: white;
+}
+
+.children-hover-grey:hover * {
+  background-color: lightgrey;
+}
+
+.children-hover-red:hover * {
+  background-color: #a6001a;
+}
+
+.children-hover-orange:hover * {
+  background-color: #e06000;
+}
+
+.children-hover-yellow:hover * {
+  background-color: #ffab00;
+}
+
+.children-hover-green:hover * {
+  background-color: #004d33;
+}
+
+.children-hover-blue:hover * {
+  background-color: dodgerblue;
+}
+
+.children-hover-royalblue:hover * {
+  background-color: #00477e;
+}
+
+.children-hover-darkblue:hover * {
+  background-color: #03002E;
+}
+
+.children-hover-purple:hover * {
+  background-color: slateblue;
+}
+
+.children-hover-royalpurple:hover * {
+  background-color: indigo;
+}
+
+.children-hover-brown:hover * {
+  background-color: #633517;
+}
+
+.children-hover-black:hover * {
+  background-color: black;
+}

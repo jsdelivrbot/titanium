@@ -1,0 +1,107 @@
+/* Text colors */
+
+.text-white {
+  color: white !important;
+}
+
+.text-grey {
+  color: lightgrey !important;
+}
+
+.text-red {
+  color: #a6001a !important;
+}
+
+.text-orange {
+  color: #e06000 !important;
+}
+
+.text-yellow {
+  color: #ffab00 !important;
+}
+
+.text-green {
+  color: #004d33 !important;
+}
+
+.text-blue {
+  color: dodgerblue !important;
+}
+
+.text-royalblue {
+  color: #00477e !important;
+}
+
+.text-darkblue {
+  color: #03002E !important;
+}
+
+.text-purple {
+  color: slateblue !important;
+}
+
+.text-royalpurple {
+  color: indigo !important;
+}
+
+.text-brown {
+  color: #633517 !important;
+}
+
+.text-black {
+  color: black !important;
+}
+
+/* Text colors - Children */
+
+.children-text-white * {
+  color: white !important;
+}
+
+.children-text-grey * {
+  color: lightgrey !important;
+}
+
+.children-text-red * {
+  color: #a6001a !important;
+}
+
+.children-text-orange * {
+  color: #e06000 !important;
+}
+
+.children-text-yellow * {
+  color: #ffab00 !important;
+}
+
+.children-text-green * {
+  color: #004d33 !important;
+}
+
+.children-text-blue * {
+  color: dodgerblue !important;
+}
+
+.children-text-royalblue * {
+  color: #00477e !important;
+}
+
+.children-text-darkblue * {
+  color: #03002E !important;
+}
+
+.children-text-purple * {
+  color: slateblue !important;
+}
+
+.children-text-royalpurple * {
+  color: indigo !important;
+}
+
+.children-text-brown * {
+  color: #633517 !important;
+}
+
+.children-text-black * {
+  color: black !important;
+}

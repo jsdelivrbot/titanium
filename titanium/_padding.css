@@ -1,0 +1,59 @@
+/* Padding sizes */
+
+.pad-jumbo {
+  padding: 5%;
+}
+
+.pad-xl {
+  padding: 4%;
+}
+
+.pad-large {
+  padding: 3%;
+}
+
+.pad-medium {
+  padding: 2%;
+}
+
+.pad-small {
+  padding: 1%;
+}
+
+.pad-xs {
+  padding: 0.5%;
+}
+
+.pad-tiny {
+  padding: 0.25%;
+}
+
+/* Padding sizes - Children */
+
+.children-pad-jumbo * {
+  padding: 5%;
+}
+
+.children-pad-xl * {
+  padding: 4%;
+}
+
+.children-pad-large * {
+  padding: 3%;
+}
+
+.children-pad-medium * {
+  padding: 2%;
+}
+
+.children-pad-small * {
+  padding: 1%;
+}
+
+.children-pad-xs * {
+  padding: 0.5%;
+}
+
+.children-pad-tiny * {
+  padding: 0.25%;
+}

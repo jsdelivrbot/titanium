@@ -1,0 +1,107 @@
+/* Text settings */
+
+.text-center {
+  text-align: center;
+}
+
+.text-jumbo {
+  font-size: 600%;
+}
+
+.text-xl {
+  font-size: 500%;
+}
+
+.text-large {
+  font-size: 400%;
+}
+
+.text-medium {
+  font-size: 300%;
+}
+
+.text-small {
+  font-size: 200%;
+}
+
+.text-xs {
+  font-size: 150%;
+}
+
+.text-tiny {
+  font-size: 100%;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-italics {
+  font-style: italic;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.text-strike {
+  text-decoration: line-through;
+}
+
+.text-overline {
+  text-decoration: overline;
+}
+
+/* Text settings - Children */
+
+.children-text-center * {
+  text-align: center;
+}
+
+.children-text-jumbo * {
+  font-size: 600%;
+}
+
+.children-text-xl * {
+  font-size: 500%;
+}
+
+.children-text-large * {
+  font-size: 400%;
+}
+
+.children-text-medium * {
+  font-size: 300%;
+}
+
+.children-text-small * {
+  font-size: 200%;
+}
+
+.children-text-xs * {
+  font-size: 150%;
+}
+
+.children-text-tiny * {
+  font-size: 100%;
+}
+
+.children-text-bold * {
+  font-weight: bold;
+}
+
+.children-text-italics * {
+  font-style: italic;
+}
+
+.children-text-underline * {
+  text-decoration: underline;
+}
+
+.children-text-strike * {
+  text-decoration: line-through;
+}
+
+.children-text-overline * {
+  text-decoration: overline;
+}

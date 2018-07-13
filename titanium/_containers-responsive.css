@@ -1,0 +1,52 @@
+/* Center-inside settings for larger screens */
+
+.center-inside-sensitive, .center-inside-normal, .center-inside-insensitive {
+  display: flex;
+  justify-content: center;
+  overflow: auto !important;
+}
+
+
+/* Center-inside and expand settings for smaller screens */
+
+@media only screen and (max-width: 1100px) {
+  .expand-sensitive {
+    width: 90%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .center-inside-sensitive {
+    display: block !important;
+    justify-content: flex-start !important;
+  }
+
+}
+
+@media only screen and (max-width: 1000px) {
+  .expand-normal {
+    width: 90%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .center-inside-normal {
+    display: block !important;
+    justify-content: flex-start !important;
+  }
+
+}
+
+@media only screen and (max-width: 900px) {
+  .expand-insensitive {
+    width: 90%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .center-inside-insensitive {
+    display: block !important;
+    justify-content: flex-start !important;
+  }
+
+}
