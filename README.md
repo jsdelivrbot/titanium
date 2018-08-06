@@ -33,6 +33,3 @@ And that's all before you're up and running! To learn how to use Titanium, check
 
 Titanium created by <a href="https://rappatic.com" target="_blank">rappatic</a> in 2018.
 
-## Licensing
-
-Titanium is licensed under the MIT License. See <a href="https://github.com/rappatic/titaniumcss/blob/master/LICENSE">LICENSE</a> for more information.
