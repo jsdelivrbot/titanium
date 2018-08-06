@@ -4,11 +4,13 @@
   text-align: center;
 }
 
-.text-jumbo {
+.text-jumbo,
+.text-jumbo-scale {
   font-size: 600%;
 }
 
-.text-xl {
+.text-xl,
+.text-xl-scale {
   font-size: 500%;
 }
 
@@ -104,4 +106,18 @@
 
 .children-text-overline * {
   text-decoration: overline;
+}
+
+/* Text sizes - Responsive */
+
+@media only screen and (max-width: 400px) {
+  .text-jumbo-scale {
+    font-size: 450%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .text-xl-scale {
+    font-size: 400%;
+  }
 }
