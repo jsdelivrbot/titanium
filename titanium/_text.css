@@ -4,13 +4,69 @@
   text-align: center;
 }
 
-.text-jumbo,
-.text-jumbo-scale {
+.text-bold {
+  font-weight: bold;
+}
+
+.text-italics {
+  font-style: italic;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.text-strike {
+  text-decoration: line-through;
+}
+
+.text-overline {
+  text-decoration: overline;
+}
+
+/* Text settings - Children */
+
+.children-text-bold * {
+  font-weight: bold;
+}
+
+.children-text-italics * {
+  font-style: italic;
+}
+
+.children-text-underline * {
+  text-decoration: underline;
+}
+
+.children-text-strike * {
+  text-decoration: line-through;
+}
+
+.children-text-overline * {
+  text-decoration: overline;
+}
+
+/* Text sizes - Title */
+
+.text-title-jumbo {
+  font-size: calc(5vw + 2em);
+}
+
+.text-title-xl {
+  font-size: calc(4vw + 1.5em);
+}
+
+.text-title-large {
+  font-size: calc(3vw + 1em);
+}
+
+/* Text sizes - Normal */
+
+.text-jumbo {
   font-size: 600%;
 }
 
-.text-xl,
-.text-xl-scale {
+.text-xl {
   font-size: 500%;
 }
 
@@ -34,31 +90,21 @@
   font-size: 100%;
 }
 
-.text-bold {
-  font-weight: bold;
+/* Text sizes - Title - Children */
+
+.children-text-title-jumbo {
+  font-size: calc(5vw + 2em);
 }
 
-.text-italics {
-  font-style: italic;
+.children-text-title-xl {
+  font-size: calc(4vw + 1.5em);
 }
 
-.text-underline {
-  text-decoration: underline;
+.children-text-title-large {
+  font-size: calc(3vw + 1em);
 }
 
-.text-strike {
-  text-decoration: line-through;
-}
-
-.text-overline {
-  text-decoration: overline;
-}
-
-/* Text settings - Children */
-
-.children-text-center * {
-  text-align: center;
-}
+/* Text sizes - Normal - Children */
 
 .children-text-jumbo * {
   font-size: 600%;
@@ -86,38 +132,4 @@
 
 .children-text-tiny * {
   font-size: 100%;
-}
-
-.children-text-bold * {
-  font-weight: bold;
-}
-
-.children-text-italics * {
-  font-style: italic;
-}
-
-.children-text-underline * {
-  text-decoration: underline;
-}
-
-.children-text-strike * {
-  text-decoration: line-through;
-}
-
-.children-text-overline * {
-  text-decoration: overline;
-}
-
-/* Text sizes - Responsive */
-
-@media only screen and (max-width: 400px) {
-  .text-jumbo-scale {
-    font-size: 450%;
-  }
-}
-
-@media only screen and (max-width: 400px) {
-  .text-xl-scale {
-    font-size: 400%;
-  }
 }
