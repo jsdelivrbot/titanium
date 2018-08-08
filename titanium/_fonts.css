@@ -4,6 +4,23 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 
+
+.font-lato {
+  font-family: Lato;
+}
+.font-lora {
+  font-family: Lora;
+}
+.font-archivo {
+  font-family: Archivo;
+}
+.font-montserrat {
+  font-family: Montserrat;
+}
+.font-poppins {
+  font-family: Poppins;
+}
+
 body {
   font-family: Archivo;
 }
