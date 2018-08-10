@@ -12,6 +12,10 @@
   color: #a6001a !important;
 }
 
+.text-tomato {
+  color: Tomato !important;
+}
+
 .text-orange {
   color: #e06000 !important;
 }
@@ -64,6 +68,10 @@
 
 .children-text-red * {
   color: #a6001a !important;
+}
+
+.children-text-tomato * {
+  color: Tomato !important;
 }
 
 .children-text-orange * {
