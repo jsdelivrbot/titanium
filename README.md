@@ -8,6 +8,7 @@
     A CSS framework designed to give users the highest possible degree of control.<br>Titanium is fast and responsive, and quick and simple to use.
   <br>
     <a href="https://github.com/rappatic/titaniumcss/wiki"><strong>Check out the documentation</strong></a><br>
+    <a href="https://github.com/rappatic/titaniumcss/projects/2"><strong>Learn about Titanium's current State of Development</a><br>
     <br>
   <br>
 </p>
