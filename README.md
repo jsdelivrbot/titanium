@@ -9,7 +9,7 @@
   <br>
   <br>
     <a href="https://github.com/rappatic/titaniumcss/wiki"><strong>Check out the documentation</strong></a><br>
-    <a href="https://github.com/rappatic/titaniumcss/projects/2"><strong>Learn about the state of development</a><br>
+    <a href="https://github.com/rappatic/titaniumcss/projects/2"><strong>Learn about the state of development</strong></a><br>
     <br>
   <br>
 </p>
