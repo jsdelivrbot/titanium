@@ -3,6 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
 
 
 .font-lato {
@@ -19,6 +21,12 @@
 }
 .font-poppins {
   font-family: Poppins;
+}
+.font-slabo {
+  font-family: Slabo;
+}
+.font-crimson {
+  font-family: Crimson Text;
 }
 
 body {
