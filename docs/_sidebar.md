@@ -6,7 +6,7 @@
 
   * [Container Layout](docs/container-layout.md)
   * [Nesting Containers](docs/nesting-containers.md)
-  * [Responsive Containers](responsive-containers.md)
+  * [Responsive Containers](docs/responsive-containers.md)
   * [Cover page](cover.md)
 
 * Configuration
