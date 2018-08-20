@@ -10,4 +10,4 @@ Titanium has built-in support for 7 fonts:
 ![Slabo](https://preview.ibb.co/f2k2OK/Slabo_1.png)
 ![Crimson Text](https://preview.ibb.co/jfydxe/Slabo_2.png)
 
-To use a font, add the class `font-` followed by the font name, lowercase and without spaces. For example, if you wished to use the font Crimson Text, you would add the class `font-crimsontext`.
+To use a font, add the class `font-` followed by the first word of the font name, lowercase and without spaces. For example, if you wished to use the font Crimson Text, you would add the class `font-crimson`.
