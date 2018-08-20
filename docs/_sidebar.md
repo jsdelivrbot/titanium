@@ -7,11 +7,11 @@
   * [Container Layout](docs/container-layout.md)
   * [Nesting Containers](docs/nesting-containers.md)
   * [Responsive Containers](docs/responsive-containers.md)
-  * [Cover page](cover.md)
 
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
+* Styling
+
+  * [Colors](configuration.md)
+  * [Text Styling](docs/text-styling.md)
+  * [Fonts](docs/text-styling.md)
   * [Markdown configuration](markdown.md)
   * [Language highlight](language-highlight.md)
