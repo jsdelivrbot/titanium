@@ -10,7 +10,7 @@
 /* Center-inside and expand settings for smaller screens */
 
 @media only screen and (max-width: 1100px) {
-  .expand-sensitive {
+  .center-inside-sensitive div {
     width: 90%;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -24,7 +24,7 @@
 }
 
 @media only screen and (max-width: 1000px) {
-  .expand-normal {
+  .center-inside-sensitive div {
     width: 90%;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -38,7 +38,7 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .expand-insensitive {
+  .center-inside-insensitive div {
     width: 90%;
     margin-left: auto !important;
     margin-right: auto !important;

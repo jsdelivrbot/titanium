@@ -12,10 +12,6 @@
   background-color: #a6001a;
 }
 
-.bg-tomato {
-  background-color: Tomato !important;
-}
-
 .bg-orange {
   background-color: #e06000;
 }
@@ -68,10 +64,6 @@
 
 .children-bg-red * {
   background-color: #a6001a !important;
-}
-
-.children-bg-tomato * {
-  background-color: Tomato !important;
 }
 
 .children-bg-orange * {

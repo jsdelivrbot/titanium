@@ -62,3 +62,9 @@
     cursor: pointer;
     border-radius: 26px !important;
 }
+
+/* Body */
+
+.body {
+  overflow-x: auto;
+}

@@ -12,10 +12,6 @@
   background-color: #a6001a;
 }
 
-.hover-tomato:hover {
-  background-color: tomato;
-}
-
 .hover-orange:hover {
   background-color: #e06000;
 }
@@ -68,10 +64,6 @@
 
 .children-hover-red:hover * {
   background-color: #a6001a;
-}
-
-.children-hover-tomato:hover * {
-  background-color: tomato;
 }
 
 .children-hover-orange:hover * {
