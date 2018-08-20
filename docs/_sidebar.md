@@ -1,4 +1,4 @@
-## Titanium
+<h2 style="text-align: center;">Titanium</h2>
 
 * Containers
 
