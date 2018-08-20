@@ -1,5 +1,7 @@
 <h2 align="center">Titanium</h2>
 
+* [Get Started](README.md)
+
 * Containers
 
   * [Container Layout](container-layout.md)
