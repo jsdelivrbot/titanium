@@ -1,6 +1,8 @@
 ### Nesting Containers
 
-The best way to manipulate multiple containers in Titanium is by nesting them. There are a lot of classes that can help you with this.
+The best way to manipulate multiple containers in Titanium is by nesting them. For example, centering two containers on one line is impossible without nesting.
+
+There are several different classes that can help you with this.
 
 
 **Multiple containers on one line**
