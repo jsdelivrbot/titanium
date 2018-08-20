@@ -17,6 +17,3 @@ Download the most recent version of Titanium from [here](https://github.com/rapp
 
 `<link rel="stylesheet" type="text/css" href="titanium.css">`
 
-### Titanium Documentation
-
-[Containers](containers.md)
