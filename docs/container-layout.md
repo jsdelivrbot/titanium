@@ -19,7 +19,5 @@ Containers, by default, align to the left and prevent other elements from enteri
 
 All containers must have these classes that wish to stack.
 
-You can center a container inside its parent element with the class `container-center`. Can produce very weird things when used with `stack` so be careful.
-
-
+You can center a container inside its parent element with the class `container-center`.
 
