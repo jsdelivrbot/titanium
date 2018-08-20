@@ -1,3 +1,5 @@
+### Responsive Containers
+
 As most of the units used in Titanium are relative (%, vh, ect.) designing a website normally makes it reasonably responsive. But what happens when the screen gets too small to accommodate multiple containers? For example, if you have four containers and the screen is the size of a phone:
 
 ![Result](https://image.ibb.co/mWZ0xT/Capture.png)
