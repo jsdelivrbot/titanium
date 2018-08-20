@@ -1,6 +1,8 @@
 ### Container Layout
 
-Containers are the most basic element in Titanium. There are 7 different options for sizing containers:
+Containers are the most basic element in Titanium, but they are also very powerful. They can be used to hold text, to display images, and to dictate where elements are displayed on your page.
+
+There are 7 different options for sizing containers:
 
 * `jumbo` This displays a container spanning the entire width of the parent element
 * `xl` This displays a container spanning four-fifths of the parent element
@@ -16,6 +18,8 @@ Containers, by default, align to the left and prevent other elements from enteri
 * `stack-right` This allows containers to stack to the right of the screen
 
 All containers must have these classes that wish to stack.
+
+You can center a container inside its parent element with the class `container-center`. Can produce very weird things when used with `stack` so be careful.
 
 
 
