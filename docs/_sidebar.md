@@ -10,7 +10,7 @@
 
 * Styling
 
-  * [Colors](configuration.md)
+  * [Colors](docs/colors.md)
   * [Text Styling](docs/text-styling.md)
   * [Fonts](docs/text-styling.md)
   * [Markdown configuration](markdown.md)
