@@ -4,8 +4,8 @@
 
 * Containers
 
-  * [Container Layout](container-layout.md)
-  * [Nesting Containers](nesting-containers.md)
+  * [Container Layout](docs/container-layout.md)
+  * [Nesting Containers](docs/nesting-containers.md)
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
 
