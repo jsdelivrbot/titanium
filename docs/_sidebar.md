@@ -6,7 +6,7 @@
 
   * [Container Layout](docs/container-layout.md)
   * [Nesting Containers](docs/nesting-containers.md)
-  * [Custom navbar](custom-navbar.md)
+  * [Responsive Containers](responsive-containers.md)
   * [Cover page](cover.md)
 
 * Configuration
