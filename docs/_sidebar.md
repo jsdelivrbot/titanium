@@ -1,9 +1,9 @@
 ## Titanium
 
-* Getting started
+* Containers
 
-  * [Containers](container-layout.md)
-  * [Writing more pages](more-pages.md)
+  * [Container Layout](container-layout.md)
+  * [Nesting Containers](nesting-containers.md)
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
 
