@@ -17,3 +17,17 @@ Download the most recent version of Titanium from [here](https://github.com/rapp
 
 `<link rel="stylesheet" type="text/css" href="titanium.css">`
 
+### Get specific files
+
+It's possible to only link to specific files in Titanium, if you're only using a small part of it.
+
+`<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/titanium/_containers.css>`
+
+Replace `_containers.css` with the CSS file you wish to link to. 
+
+### Get an older version of Titanium
+
+If you wish to use an older version of Titanium, find which one you want from [the releases page](https://github.com/rappatic/titanium/releases/) and extract the zip file to your website. Link to it with CSS by inserting this into the `head` section of your webpage:
+
+`<link rel="stylesheet" type="text/css" href="titanium.css">`
+
