@@ -21,32 +21,6 @@
 }
 
 
-.outer-border {
-  border: 1px solid black;
-}
-
-
-.inner-border td {
-  border: 1px solid black;
-}
-
-.inner-border th {
-  border: 1px solid black;
-}
-
-
-.full-border {
-  border: 1px solid black;
-}
-
-.full-border td {
-  border: 1px solid black;
-}
-
-.full-border th {
-  border: 1px solid black;
-}
-
 .all-center * {
   text-align: center;
 }
