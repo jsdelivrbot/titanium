@@ -1,3 +1,5 @@
+### Colors
+
 Titanium has, by default, 14 different colors that you can use for styling.
 
 * White
