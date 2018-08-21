@@ -21,6 +21,6 @@
   * [Borders and Bars](docs/borders-and-bars.md)
 
 * Misc
-
- * [Tables](docs/tables.md)
- * [Buttons](docs/buttons.md)
+  * [Tables](docs/tables.md)
+  * [Buttons](docs/buttons.md)
+  * [Rounded Corners](docs/rounded-corners.md)
