@@ -13,7 +13,6 @@
   * [Colors](docs/colors.md)
   * [Text Styling](docs/text-styling.md)
   * [Fonts](docs/fonts.md)
-  * [Shadows](docs/shadows.md)
   
 * Container Elements
 
