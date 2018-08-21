@@ -19,3 +19,6 @@
   * [Padding](docs/padding.md)
   * [Margins](docs/margins.md)
   * [Borders and Bars](docs/borders-and-bars.md)
+
+* [Tables](docs/tables.md)
+* [Buttons](docs/buttons.md)
