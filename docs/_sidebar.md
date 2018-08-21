@@ -13,5 +13,10 @@
   * [Colors](docs/colors.md)
   * [Text Styling](docs/text-styling.md)
   * [Fonts](docs/fonts.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+  * [Shadows](docs/shadows.md)
+  
+* Container Elements
+
+  * [Padding](docs/padding.md)
+  * [Margins](docs/margins.md)
+  * [Borders and Bars](docs/borders-and-bars.md)
