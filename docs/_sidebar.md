@@ -1,4 +1,4 @@
-<h2 align="center">Titanium</h2>
+<a align="center" href="https://rappatic.github.io/titanium/>Titanium</a>
 
 * [Get Started](README.md)
 
