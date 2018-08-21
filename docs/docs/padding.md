@@ -20,4 +20,6 @@ Example:
 
 ![Result](https://preview.ibb.co/iwBbnT/Capture.png)
 
+When you add padding to an element, the padding is added to the *inside* of the element, as opposed to the outside, so your element will retain its original size no matter how much padding you put on it. Keep in mind your usable space inside the elment will get smaller.
+
 
