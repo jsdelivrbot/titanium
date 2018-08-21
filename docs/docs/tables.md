@@ -1,3 +1,5 @@
+### Tables
+
 Tables in TitaniumCSS are very easy, as they are automatically styled for you. Just use the class `table`.
 
 ```
