@@ -1,7 +1,5 @@
 <h2 align="center">
-  <a href="https://rappatic.github.io/titanium/">
    <strong>Titanium</strong>
-  </a>
 </h2>
 
 * [Get Started](README.md)
