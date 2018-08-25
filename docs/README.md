@@ -17,6 +17,12 @@ Download the most recent version of Titanium from [here](https://github.com/rapp
 
 `<link rel="stylesheet" type="text/css" href="titanium.css">`
 
+### Get the beta version
+
+Warning: this version may be unstable and buggy. Use at your own risk.
+
+`<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/beta/ti-beta.css">`
+
 ### Get specific files
 
 It's possible to only link to specific files in Titanium, if you're only using a small part of it.
