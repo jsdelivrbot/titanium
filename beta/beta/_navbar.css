@@ -1,0 +1,159 @@
+/* General */
+
+.navbar-stack-right li{
+  float: right !important;
+}
+
+.navbar-stack-left li {
+  float: left !important;
+}
+
+/* Hover Colors */
+
+.navbar-hover-white li:hover {
+  background-color: white;
+}
+
+.navbar-hover-grey li:hover {
+  background-color: lightgrey;
+}
+
+.navbar-hover-red li:hover {
+  background-color: #a6001a;
+}
+
+.navbar-hover-orange li:hover {
+  background-color: #e06000;
+}
+
+.navbar-hover-yellow li:hover {
+  background-color: #ffab00;
+}
+
+.navbar-hover-green li:hover {
+  background-color: #004d33;
+}
+
+.navbar-hover-blue li:hover {
+  background-color: dodgerblue;
+}
+
+.navbar-hover-royalblue li:hover {
+  background-color: #00477e;
+}
+
+.navbar-hover-darkblue li:hover {
+  background-color: #03002E;
+}
+
+.navbar-hover-purple li:hover {
+  background-color: slateblue;
+}
+
+.navbar-hover-royalpurple li:hover {
+  background-color: indigo;
+}
+
+.navbar-hover-brown li:hover {
+  background-color: #633517;
+}
+
+.navbar-hover-black li:hover {
+  background-color: black;
+}
+
+/* Basic horizontal navbar */
+
+ul.horizontal-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.horizontal-navbar li {
+    float: left;
+}
+
+.horizontal-navbar li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Basic vertical navbar */
+
+ul.vertical-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.vertical-navbar li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Sticky vertical navbar */
+
+ul.vertical-navbar-sticky {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.vertical-navbar-sticky li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.vertical-navbar-sticky + div {
+  margin-left: 25%;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+/* Sticky horizontal navbar */
+
+ul.horizontal-navbar-sticky {
+  list-style-type: none;
+  margin: 0; padding: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.horizontal-navbar-sticky li {
+  float: left;
+}
+
+.horizontal-navbar-sticky li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.horizontal-navbar-sticky + div {
+  margin-bottom: 60px;
+}
+
+/* Responsive h */
+
+@media screen and (max-width: 760px) {
+  ul.responsive-h li {
+    float: none !important;
+  }
+
+  ul.responsive-h li * {
+    text-align: left !important;
+  }
+}
