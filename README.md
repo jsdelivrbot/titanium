@@ -30,7 +30,7 @@ To install Titanium, add the following to the `head` section of your webpage:
 
 And that's all before you're up and running! To learn how to use Titanium, check out the documentation.
 
-<a href="https://rappatic.github.io/titanium/documentation.html#/?id=get-the-beta-version">Want to install an old version?</a>
+<a href="https://rappatic.github.io/titanium/documentation.html#/?id=get-an-older-version-of-titanium">Want to install an old version?</a>
 
 ## Creators
 
