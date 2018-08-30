@@ -39,7 +39,7 @@ body {
 
 .moreInfo {
   float: left;
-  height: 1000vh;
+  height: 95vh;
   width: calc(82vw - 15px);
   padding-left: calc(6vw + 15px);
 }
