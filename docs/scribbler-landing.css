@@ -41,8 +41,7 @@
 /* hero section */
 .hero {
   text-align: center;
-  background: #00467D;
-  background: linear-gradient(to bottom right, #00467D, #1589E2);
+  background: #F8F8FA;
   padding: 3rem 0 10rem 0;
   padding-bottom: 6rem;
   color: white !important;
