@@ -109,7 +109,7 @@ p {
   padding-bottom: 4px;
 }
 
-@media only screen and (max-width: 8in) {
+@media screen and (orientation:portrait) { 
   .outer {
     display: none;
   }
