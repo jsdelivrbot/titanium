@@ -1,0 +1,152 @@
+@font-face {
+  font-family: Segoe;
+  src: url(seguisb.ttf);
+}
+
+body {
+  background-image: url(bground.png);
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: content-box;
+}
+
+.outer {
+  width: 10vw;
+  position: relative;
+  float: left;
+  height: 100vh;
+}
+
+.inner {
+  font-size: 15vh;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-family: Segoe;
+  color: white;
+  letter-spacing: 12px;
+  margin-left: 20px;
+}
+
+.rotate {
+  -moz-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+  -webkit-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+  transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+}
+
+.moreInfo {
+  float: left;
+  height: 1000vh;
+  width: calc(82vw - 15px);
+  padding-left: calc(6vw + 15px);
+}
+
+.mainTitle {
+  color: white;
+  font-size: 2em;
+  font-family: Segoe;
+  padding-top: 5%;
+}
+
+.mainTitleSmall {
+  color: white;
+  font-size: 2em;
+  font-family: Segoe;
+  display: none;
+}
+
+p {
+  color: white;
+  font-size: 1.2em;
+  font-family: Segoe;
+}
+
+a:link {
+  color: white;
+  font-size: 1.2em;
+  font-family: Segoe;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  font-size: 1.2em;
+  font-family: Segoe;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  font-size: 1.2em;
+  font-family: Segoe;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  font-size: 1.2em;
+  font-family: Segoe;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+::selection {
+  background: rgba(30, 144, 255, 0.7);
+  color: white;
+}
+::-moz-selection {
+  background: rgba(30, 144, 255, 0.7);
+  color: white;
+}
+
+p {
+  padding-bottom: 4px;
+}
+
+@media only screen and (max-width: 720px) {
+  .outer {
+    display: none;
+  }
+
+  .inner {
+    display: none;
+  }
+
+  .rotate {
+    -moz-transform: none;
+    -webkit-transform: none;
+    transform: none;
+  }
+
+  .moreInfo {
+    float: none;
+    height: auto;
+    width: auto;
+    padding-left: 0;
+    margin: 0 !important;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .center-when-small {
+    text-align: center;
+  }
+
+  .mainTitleSmall {
+    display: block;
+    color: white;
+    font-size: 2em;
+    font-family: Segoe;
+  }
+
+  .mainTitle {
+    padding-top: 0;
+  }
+
+}
