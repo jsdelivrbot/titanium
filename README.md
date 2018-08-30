@@ -3,7 +3,6 @@
     <img src="https://preview.ibb.co/gfch2p/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">Titanium</h3>
   <p align="center">
     A CSS framework designed to give users the highest possible degree of control.<br>Titanium is fast and responsive, and quick and simple to use.
   <br>
