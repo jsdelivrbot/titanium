@@ -9,6 +9,12 @@ body {
   padding: 0;
 }
 
+a {
+  outline: 1px solid white;
+  padding: 4px 16px;
+  margin: 0px 0px 5px 0px;
+}
+
 * {
   box-sizing: content-box;
 }
