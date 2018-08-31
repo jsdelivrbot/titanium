@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#">
+  <a href="https://rappatic.github.io/titanium/">
     <img src="https://preview.ibb.co/gfch2p/logo.png" alt="Logo">
   </a>
 
