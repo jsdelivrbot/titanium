@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rappatic.github.io/titanium/">
-    <img src="https://preview.ibb.co/gfch2p/logo.png" alt="Logo">
+    <img src="https://preview.ibb.co/c4gaAK/logo.png" alt="Logo">
   </a>
 
   <p align="center">
