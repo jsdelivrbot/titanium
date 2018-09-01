@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    A CSS framework designed to give users the highest possible degree of control.<br>Titanium is fast and responsive, and quick and simple to use.
+    <img src="https://preview.ibb.co/gKkkAK/titanium.png" alt="I am TI-TAN-I-UM">
   <br>
   <br>
     <a href="https://rappatic.github.io/titanium/documentation.html#/"><strong>Check out the documentation</strong></a><br>
