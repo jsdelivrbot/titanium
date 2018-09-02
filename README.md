@@ -4,9 +4,10 @@
     <img src="https://preview.ibb.co/hdpYze/Picture3.png" alt="I am TI-TAN-I-UM">
   <br>
   <br>
-    <a href="https://rappatic.github.io/titanium/documentation.html#/"><strong>Check out the documentation</strong></a><br>
-    <a href="https://rappatic.github.io/titanium/"><strong>Visit the official site</strong></a><br>
-    <a href="https://github.com/rappatic/titaniumcss/projects/2"><strong>Learn about the state of development</strong></a><br>
+  <br>
+    <a href="https://rappatic.github.io/titanium/documentation.html#/"><img src="https://preview.ibb.co/kFFyze/Picture12.png"></a><br>
+    <a href="https://rappatic.github.io/titanium/"><img src="https://preview.ibb.co/frikee/Picture31.png"></a><br>
+    <a href="https://github.com/rappatic/titaniumcss/projects/2"><img src="https://preview.ibb.co/h99mkK/Picture21.png"></a><br>
     <br>
   <br>
 </p>
