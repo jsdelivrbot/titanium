@@ -1,10 +1,7 @@
-<p align="center">
-  <a href="https://rappatic.github.io/titanium/">
-    <img src="https://preview.ibb.co/c4gaAK/logo.png" alt="Logo">
-  </a>
+
 
   <p align="center">
-    <img src="https://preview.ibb.co/gKkkAK/titanium.png" alt="I am TI-TAN-I-UM">
+    <img src="https://preview.ibb.co/hdpYze/Picture3.png" alt="I am TI-TAN-I-UM">
   <br>
   <br>
     <a href="https://rappatic.github.io/titanium/documentation.html#/"><strong>Check out the documentation</strong></a><br>
@@ -13,7 +10,7 @@
     <br>
   <br>
 </p>
-</p>
+
 
 ## Reporting Bugs
 
