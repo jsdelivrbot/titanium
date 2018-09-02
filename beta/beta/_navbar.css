@@ -143,10 +143,10 @@ ul.horizontal-navbar-sticky {
 }
 
 .horizontal-navbar-sticky + div {
-  margin-bottom: 60px;
+  margin-top: 60px;
 }
 
-/* Responsive h */
+/* Responsive horizontal navbar type 1 */
 
 @media screen and (max-width: 760px) {
   ul.responsive-h li {
@@ -156,4 +156,54 @@ ul.horizontal-navbar-sticky {
   ul.responsive-h li * {
     text-align: left !important;
   }
+
+  ul.responsive-h li a {
+    padding: 10px 14px;
+    padding-left: 18px;
+    padding-bottom: 11px;
+  }
+}
+
+/* Responsive horizontal navbar type 2 */
+
+ul.responsive-h2 li:last-child {
+  display: none;
+}
+
+@media screen and (max-width: 760px) {
+  ul.responsive-h2 li:not(:first-child):not(:last-child) {
+    display: none;
+  }
+  ul.responsive-h2 li:last-child {
+    display: block !important;
+    float: right;
+  }
+
+  ul.responsive-h2-expand {position: relative;}
+
+  .responsive-h2-expand li:last-child {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  ul.responsive-h2-expand li {
+    float: none !important;
+    display: block !important;
+  }
+
+  ul.responsive-h2-expand li * {
+    text-align: left !important;
+  }
+
+  ul.responsive-h2-expand li a {
+    padding: 10px 14px;
+    padding-left: 18px;
+    padding-bottom: 11px;
+  }
+
+  ul.responsive-h2-expand li {
+    list-style-type: none;
+  }
+
 }
