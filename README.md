@@ -7,7 +7,7 @@
   <br>
     <a href="https://rappatic.github.io/titanium/documentation.html#/"><img src="https://preview.ibb.co/kFFyze/Picture12.png"></a><br>
     <a href="https://rappatic.github.io/titanium/"><img src="https://preview.ibb.co/frikee/Picture31.png"></a><br>
-    <a href="https://github.com/rappatic/titaniumcss/projects/2"><img src="https://preview.ibb.co/h99mkK/Picture21.png"></a><br>
+    <a href="https://github.com/rappatic/titaniumcss/projects/2"><img src="https://preview.ibb.co/nxJe5K/Picture19.png"></a><br>
     <br>
   <br>
 </p>
