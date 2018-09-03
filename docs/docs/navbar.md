@@ -1,4 +1,4 @@
-### Navbar beta
+### Navbars
 
 There are 2 main types of navbar in Titanium - horizontal and vertical. They have no additional styling, but can be styled using the basic styling classes. *Note: If you wish to style text colors, use the `children-text-color` classes instead of the `text-color` classes. Add it to the `ul`.*
 
@@ -32,7 +32,7 @@ A vertical navbar is similar to a horizontal one. Add the class `vertical-navbar
 
 **Sticky Navbars**
 
-A sticky navbar has a fixed position on the page. You can use the class `horizontal-navbar-sticky` or `vertical-navbar-sticky` in place of the ordinary navbar classes. 
+A sticky navbar has a fixed position on the page. You can use the class `horizontal-navbar-sticky` or `vertical-navbar-sticky` in place of the ordinary navbar classes.
 
 ```
 <ul class="vertical-navbar-sticky">
@@ -47,17 +47,11 @@ A sticky navbar has a fixed position on the page. You can use the class `horizon
 
 **Responsive Navbars**
 
-There are two types of responsive navbar in Titanium. For the first one, simply add the class `responsive-h` to the `ul`. This is pretty basic.
+There are two types of responsive navbar in Titanium. For the first one, simply add the class `responsive-1` to the `ul`. This is pretty basic.
 
 ![Result](https://preview.ibb.co/kwnvCz/Capture.png)
 
-The second type of responsive navbar is `responsive-h2`. This requires some extra imports and HTML. Add these links to the `head` section of your webpage:
-
-`<script src="https://cdn.rawgit.com/rappatic/titanium/master/beta/beta/titanium.js"></script>`
-
-`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`
-
-You also need to add some HTML to the bottom of the `ul`:
+The second type of responsive navbar is `responsive-2`. This requires some extra HTML. Add this to the bottom of your `ul`:
 
 ```
 <li>
@@ -65,8 +59,15 @@ You also need to add some HTML to the bottom of the `ul`:
 </li>
 ```
 
+Additionally, **make the ID of the navbar `navbar-responsive`.**
+
 This will create a result like this:
 
 ![Result](https://image.ibb.co/hqC1kK/Capture.png)
 
 The first link in the list (usually Home) will be kept, and a hamburger button (**you must include the above HTML**) will be displayed to the right. Clicking the hamburger button will fold out a menu with all your links.
+
+**Change color on hover**
+
+Add the class `navbar-hover-black` (or any other color) to the `ul` to change the color of the `li`s on mouseover.
+
