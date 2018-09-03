@@ -1,7 +1,7 @@
 @import "titanium/_background-colors.css";
 @import "titanium/_borders-bars.css";
 @import "titanium/_containers-responsive.css";
-@import "titanium/_containers.css";
+@import "titanium/_container.css";
 @import "titanium/_hover.css";
 @import "titanium/_margins.css";
 @import "titanium/_misc-style.css";
@@ -11,4 +11,5 @@
 @import "titanium/_text.css";
 @import "titanium/_fonts.css";
 @import "titanium/_navbar.css";
-@import "titanium/_shadows.css"
+@import "titanium/_shadows.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
