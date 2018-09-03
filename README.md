@@ -21,8 +21,6 @@ To install Titanium, add the following to the `head` section of your webpage:
 
 `<script src="https://cdn.rawgit.com/rappatic/titanium/master/titanium/titanium.js"></script>`
 
-`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">`
-
 And that's all before you're up and running! To learn how to use Titanium, check out the documentation.
 
 <a href="https://rappatic.github.io/titanium/documentation.html#/?id=get-an-older-version-of-titanium">Want to install an old version?</a>
