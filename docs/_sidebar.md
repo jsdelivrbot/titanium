@@ -26,7 +26,7 @@
   * [Tables](docs/tables.md)
   * [Buttons](docs/buttons.md)
   * [Rounded Corners](docs/rounded-corners.md)
+  * [Navbars](docs/navbar.md)
 
 * beta
   * [About **beta**](docs/beta/README.md)
-  * [**beta** Navbar](docs/beta/navbar.md)
