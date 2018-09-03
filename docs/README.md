@@ -7,7 +7,9 @@ There are two ways to install Titanium.
 
 Add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/titanium.css">`
+`<link rel="stylesheet" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/titanium.css">`
+
+`<script src="https://cdn.rawgit.com/rappatic/titanium/master/titanium/titanium.js"></script>`
 
 And that's all before you're up and running!
 
