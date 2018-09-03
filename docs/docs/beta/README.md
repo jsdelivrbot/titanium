@@ -8,3 +8,5 @@ Add the following to the `head` section of your webpage:
 
 `<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/beta/ti-beta.css">`
 
+There are currently no **beta** releases.
+
