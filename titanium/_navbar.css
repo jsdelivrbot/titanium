@@ -1,0 +1,240 @@
+/* General */
+
+.navbar-stack-right li{
+  float: right !important;
+}
+
+.navbar-stack-left li {
+  float: left !important;
+}
+
+/* Hover Colors */
+
+.navbar-hover-white li:hover {
+  background-color: white;
+}
+
+.navbar-hover-grey li:hover {
+  background-color: lightgrey;
+}
+
+.navbar-hover-red li:hover {
+  background-color: #a6001a;
+}
+
+.navbar-hover-orange li:hover {
+  background-color: #e06000;
+}
+
+.navbar-hover-yellow li:hover {
+  background-color: #ffab00;
+}
+
+.navbar-hover-green li:hover {
+  background-color: #004d33;
+}
+
+.navbar-hover-blue li:hover {
+  background-color: dodgerblue;
+}
+
+.navbar-hover-royalblue li:hover {
+  background-color: #00477e;
+}
+
+.navbar-hover-darkblue li:hover {
+  background-color: #03002E;
+}
+
+.navbar-hover-purple li:hover {
+  background-color: slateblue;
+}
+
+.navbar-hover-royalpurple li:hover {
+  background-color: indigo;
+}
+
+.navbar-hover-brown li:hover {
+  background-color: #633517;
+}
+
+.navbar-hover-black li:hover {
+  background-color: black;
+}
+
+/* Basic horizontal navbar */
+
+ul.horizontal-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.horizontal-navbar li {
+    float: left;
+}
+
+.horizontal-navbar li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Basic vertical navbar */
+
+ul.vertical-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.vertical-navbar li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Sticky vertical navbar */
+
+ul.vertical-navbar-sticky {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.vertical-navbar-sticky li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.vertical-navbar-sticky + div {
+  margin-left: 15%;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+/* Sticky horizontal navbar */
+
+ul.horizontal-navbar-sticky {
+  list-style-type: none;
+  margin: 0; padding: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.horizontal-navbar-sticky li {
+  float: left;
+}
+
+.horizontal-navbar-sticky li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.horizontal-navbar-sticky + div {
+  margin-top: 60px;
+}
+
+/* Responsive horizontal navbar type 1 */
+
+@media screen and (max-width: 760px) {
+  ul.responsive-1 li {
+    float: none !important;
+  }
+
+  ul.responsive-1 li * {
+    text-align: left !important;
+  }
+
+  ul.responsive-1 li a {
+    padding: 10px 14px;
+    padding-left: 18px;
+    padding-bottom: 11px;
+  }
+}
+
+/* Responsive horizontal navbar type 2 */
+
+ul.responsive-2 li:last-child {
+  display: none;
+}
+
+@media screen and (max-width: 760px) {
+  ul.responsive-2 li:not(:first-child):not(:last-child) {
+    display: none;
+  }
+  ul.responsive-2 li:last-child {
+    display: block !important;
+    float: right;
+  }
+
+  ul.responsive-2-expand {position: relative;}
+
+  .responsive-2-expand li:last-child {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  ul.responsive-2-expand li {
+    float: none !important;
+    display: block !important;
+  }
+
+  ul.responsive-2-expand li * {
+    text-align: left !important;
+  }
+
+  ul.responsive-2-expand li a {
+    padding: 10px 14px;
+    padding-left: 18px;
+    padding-bottom: 11px;
+  }
+
+  ul.responsive-2-expand li {
+    list-style-type: none;
+  }
+
+}
+
+
+/* Responsive vertical navbar sticky */
+
+@media screen and (max-width: 850px) {
+  ul.vertical-navbar-sticky {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      width: 100%;
+      height: auto;
+      position: relative;
+  }
+
+  ul.vertical-navbar-sticky li {
+      float: left;
+  }
+
+  ul.vertical-navbar-sticky li a {
+      display: block;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+
+  ul.vertical-navbar-sticky + div {
+    margin-left: auto;
+    padding: auto;
+  }
+}
