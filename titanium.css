@@ -12,4 +12,7 @@
 @import "titanium/_fonts.css";
 @import "titanium/_navbar.css";
 @import "titanium/_shadows.css";
+
+@import "cobalt/_cobalt.css";
+
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
