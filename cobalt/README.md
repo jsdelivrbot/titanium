@@ -4,7 +4,7 @@
 
 If you already use Titanium, it's easy to install Cobalt. Just add this to the `head` section of your webpage:
 
-`<script src="https://cdn.rawgit.com/rappatic/titanium/master/cobalt/cobalt.js">`
+`<script src="https://cdn.rawgit.com/rappatic/titanium/master/cobalt/cobalt.js"></script>`
 
 Otherwise, you also need to add this:
 
