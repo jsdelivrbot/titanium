@@ -66,6 +66,10 @@
   overflow: auto;
 }
 
+.center-inside div {
+  display: flex;
+}
+
 .stack-left {
   float: left;
 }
