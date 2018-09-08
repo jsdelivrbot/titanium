@@ -1,6 +1,6 @@
 ### Cobalt
 
-Cobalt is a font stack containing all 850-ish Google Font API fonts. It takes only a second or two to load and is easy to use.
+Cobalt is a font stack containing all 850-ish Google Font API fonts. It pulls only the fonts used in your webpage, making for instant load times.
 
 It can be used with or without Titanium.
 
