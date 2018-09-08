@@ -1,6 +1,6 @@
 ### How to use Cobalt
 
-Cobalt has around 850 fonts. To use one, simply add the class `font-` followed by its name with hyphens replacing spaces and in all lowercase. For example, if you wished to use the font Yeseva One, you would add the class `font-yeseva-one` to the element. If you wished to use the font ABeeZee, you would add the class `font-abeezee` to the element. If you wished to use the font Libre Barcode 128 Text, you would add the class `font-libre-barcode-128-text`.
+Cobalt has around 850 fonts. To use one, simply add the class `font-` followed by its name with hyphens replacing spaces and in all lowercase. For example, if you wished to use the font Yeseva One, you would add the class `font-yeseva-one` to the element. If you wished to use the font ABeeZee, you would add the class `font-abeezee` to the element. If you wished to use the font Libre Barcode 128 Text, you would add the class `font-libre-barcode-128-text`. As of Cobalt Edge, Cobalt only pulls the required fonts, giving you access to the whole library but only accessing the ones you need.
 
 A full list of fonts followed by their respective class is shown below.
 
