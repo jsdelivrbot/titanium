@@ -10,7 +10,7 @@ Otherwise, you also need to add this:
 
 `<link rel="stylesheet" href="https://cdn.rawgit.com/rappatic/titanium/master/cobalt/cobalt.css">`
 
-To learn how to use Cobalt, check out the [Titanium documentation](https://rappatic.github.io/titanium/documentation.html/).
+To learn how to use Cobalt, check out the [Titanium documentation](https://rappatic.github.io/titanium/documentation.html).
 
 ### Version History
 
