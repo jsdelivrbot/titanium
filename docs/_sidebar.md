@@ -28,9 +28,5 @@
   * [Rounded Corners](docs/rounded-corners.md)
   * [Navbars](docs/navbar.md)
 
-* Cobalt
-   * [Installation](docs/cobalt/install.md)
-   * [Using Cobalt](docs/cobalt/how-to.md)
-
 * beta
   * [About **beta**](docs/beta/README.md)
