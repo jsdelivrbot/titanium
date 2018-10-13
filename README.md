@@ -1,16 +1,5 @@
-
-
-  <p align="center">
-    <img src="https://preview.ibb.co/hdpYze/Picture3.png" alt="I am TI-TAN-I-UM">
-  <br>
-  <br>
-  <br>
-    <a href="https://rappatic.github.io/titanium/documentation.html#/"><img src="https://preview.ibb.co/kFFyze/Picture12.png"></a><br>
-    <a href="https://rappatic.github.io/titanium/"><img src="https://preview.ibb.co/fcxHsz/Picture1.png"></a><br>
-    <a href="https://github.com/rappatic/titaniumcss/projects/2"><img src="https://preview.ibb.co/nxJe5K/Picture19.png"></a><br>
-    <br>
-  <br>
-</p>
+# Titanium
+Titanium is a web framework designed so that you can use the HTML code you're used to.
 
 
 ## Installing
