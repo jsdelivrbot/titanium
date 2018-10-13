@@ -1,4 +1,4 @@
-# Titanium
+# Titanium [![GitHub release](https://img.shields.io/github/release/rappatic/titanium.svg?style=popout-square)](https://github.com/rappatic/titanium)  [![GitHub](https://img.shields.io/github/license/rappatic/titanium.svg?style=popout-square)](https://github.com/rappatic/titanium) 
 Titanium is a web framework designed so that you can use the HTML code you're used to.
 
 
