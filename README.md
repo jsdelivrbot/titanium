@@ -1,7 +1,6 @@
 # Titanium [![GitHub release](https://img.shields.io/github/release/rappatic/titanium.svg?style=popout-square)](https://github.com/rappatic/titanium)  [![GitHub](https://img.shields.io/github/license/rappatic/titanium.svg?style=popout-square)](https://github.com/rappatic/titanium) 
 
-Titanium is a web framework designed to allow you to write simple HTML while it does the hard work in the background.
-
+Titanium allows you to write simple HTML code while it does all the hard work in the background.
 
 ## Installing
 
