@@ -1,4 +1,4 @@
-# Titanium [![GitHub release](https://img.shields.io/github/release/rappatic/titanium.svg?style=popout-square)](https://github.com/rappatic/titanium)  [![GitHub](https://img.shields.io/github/license/rappatic/titanium.svg?style=popout-square)](https://github.com/rappatic/titanium) 
+# Titanium ![GitHub release](https://img.shields.io/github/release/rappatic/titanium.svg)  ![GitHub](https://img.shields.io/github/license/rappatic/titanium.svg) ![GitHub](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 Titanium allows you to write simple HTML code while it does all the hard work in the background.
 
