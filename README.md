@@ -1,6 +1,6 @@
 # Titanium ![GitHub release](https://img.shields.io/github/release/rappatic/titanium.svg)  ![GitHub](https://img.shields.io/github/license/rappatic/titanium.svg) ![GitHub](https://img.shields.io/badge/build-passing-brightgreen.svg) ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/react.svg)
 
-Titanium allows you to write simple HTML code while it does all the hard work in the background.
+Titanium is a web framework that allows you to write simple HTML code while it does all the hard work in the background.
 
 ## Installing
 
