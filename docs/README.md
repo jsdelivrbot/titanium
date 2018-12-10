@@ -7,9 +7,9 @@ There are two ways to install Titanium.
 
 Add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/titanium.css">`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rappatic/titaniumcss@master/titanium.css">`
 
-`<script src="https://cdn.rawgit.com/rappatic/titanium/master/titanium/titanium.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/rappatic/titanium@master/titanium/titanium.js"></script>`
 
 And that's all before you're up and running!
 
@@ -23,7 +23,7 @@ Download the most recent version of Titanium from [here](https://github.com/rapp
 
 Warning: this version may be unstable and buggy. Use at your own risk.
 
-`<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/beta/ti-beta.css">`
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/rappatic/titaniumcss@master/beta/ti-beta.css">`
 
 ### Get specific files
 

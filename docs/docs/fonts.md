@@ -4,7 +4,7 @@ Font support for Titanium is provided via Cobalt, a JS-based font stack that all
 
 Add this to the end of your webpage `body`:
 
- `<script src="https://cdn.rawgit.com/rappatic/cobalt/master/cobalt/cobalt.js"></script>`
+ `<script src="https://cdn.jsdelivr.net/gh/rappatic/cobalt@master/cobalt/cobalt.js"></script>`
  
  And that's all before you're up and running!
 

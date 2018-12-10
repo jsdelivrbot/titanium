@@ -6,7 +6,7 @@ The Titanium **beta** is a great way to test out the new indev features that are
 
 Add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/rappatic/titaniumcss/master/beta/ti-beta.css">`
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/rappatic/titaniumcss@master/beta/ti-beta.css">`
 
 There are currently no **beta** releases.
 

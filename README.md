@@ -6,9 +6,9 @@ A CSS framework that allows you to write simple and easy-to-understand HTML.
 
 To install Titanium, add the following to the `head` section of your webpage:
 
-`<link rel="stylesheet" href="https://cdn.rawgit.com/rappatic/titanium/master/titanium.css">`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rappatic/titanium@master/titanium.css">`
 
-`<script src="https://cdn.rawgit.com/rappatic/titanium/master/titanium/titanium.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/rappatic/titanium@master/titanium/titanium.js"></script>`
 
 And that's all before you're up and running! To learn how to use Titanium, check out the documentation.
 
